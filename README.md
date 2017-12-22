@@ -94,7 +94,7 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Where to go from here?
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+Celebrate your contribution and share it with your friends and followers by going to the [web app](https://roshanjossey.github.io/first-contributions/#social-share).
 
 You could join our slack team in case you need any help or have any questions. [Join slack team](https://firstcontributions.herokuapp.com).
 
