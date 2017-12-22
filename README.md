@@ -29,7 +29,7 @@ Now clone this repo to your machine. Click on the clone button and then click th
 Open a terminal and run the following git command:
 
 ```
-git clone "url you just copied"
+git clone <url you just copied>
 ```
 where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
 
